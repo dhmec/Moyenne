@@ -180,7 +180,7 @@ int main()
     }
      printf("\033[0;37m");
      if((math1)< 8){
-          printf("\n moyenne Mathematiques de base 1 :\033[0;31m%.2f   -(%.2f)",math1,8-math1);
+          printf("\n Moyenne Mathematiques de base 1 :\033[0;31m%.2f   -(%.2f)",math1,8-math1);
           nb=nb-8;
     }
     else{
